@@ -3,6 +3,9 @@
 横向滚动的选择器，可以自己自定义。
 
 
+![横向时间选择器.gif](https://upload-images.jianshu.io/upload_images/7980283-d3dbefedc73f049e.gif?imageMogr2/auto-orient/strip)
+
+
 使用：
 useing
 
